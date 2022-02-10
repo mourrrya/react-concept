@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "bitcoinaverage": "^1.4.2",
     "coinbase-pro": "^0.9.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
